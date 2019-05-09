@@ -421,4 +421,4 @@ body{
 
 ::-webkit-scrollbar {width:5px;height:5px;}
 ::-webkit-scrollbar-track {background:var(--bg-color);}
-::-webkit-scrollbar-thumb {background:var(--text-color);}:root {--bg-color: #fff;--text-color: rgb(10, 10, 10);--blog-gray-color:rgb(80, 80, 80);--background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.4), rgb(10, 10, 10, 0.4)), url('https://memestatic1.fjcdn.com/comments/Terry+daviss+operating+system+is+called+temple+os+hes+still+_9c9df92b2b8e76a40f10bc34e35d28fd.jpg');--background-background: #fff;}
+::-webkit-scrollbar-thumb {background:var(--text-color);}:root {--bg-color: #fff;--text-color: rgb(10, 10, 10);--blog-gray-color:rgb(80, 80, 80);--background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.4), rgb(10, 10, 10, 0.4)), url('https://raw.githubusercontent.com/MadsLudvig/madsludvig.github.io/master/Background.jpg');--background-background: #fff;}
